@@ -45,7 +45,7 @@ public class Index {
         ILib_div divTemp = new ILib_div("divTemp");
         divTemp.innerHTML = new ILib_H(1, "Core tmperature").toString();
 
-
+        /*Test DIV*/
         ILib_div div1 = new ILib_div("div1");
         div1.innerHTML = new ILib_H(1, "Molimo pritisnite dugme").toString();
 
